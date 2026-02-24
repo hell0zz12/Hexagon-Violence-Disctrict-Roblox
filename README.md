@@ -46,4 +46,4 @@ Hexagon.lua is compatible with injectors that have **60+ UNC** and **60+ SUNC** 
 3. **Execute** the injector with proper permissions
 4. **Copy & Paste** this loadstring:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hell0zz12/Hexagon-Violence-Disctrict/refs/heads/main/Hexagon.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hell0zz12/Hexagon-Violence-Disctrict-Roblox/refs/heads/main/Hexagon.lua"))()
